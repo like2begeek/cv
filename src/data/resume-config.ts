@@ -136,6 +136,9 @@ export const resumeConfig: ResumeConfig = {
       },
       techs: ['SEO', 'Google Ads', 'Email Marketing'],
       details: {
+        context: {
+          fr: 'Agence marketing digitale basée à Lille, mission de 3 mois.',
+        },
         tasks: {
           fr: [
             'Rédaction des documents stratégiques à destination des clients et prospects',
@@ -159,6 +162,9 @@ export const resumeConfig: ResumeConfig = {
       },
       techs: ['SEO', 'Google Ads', 'Google Analytics', 'Email Marketing'],
       details: {
+        context: {
+          fr: 'Marque gaming internationale — pilotage du e-commerce en autonomie.',
+        },
         tasks: {
           fr: [
             'Stratégie d\'acquisition : SEO, SEA, Emailing, Display Ads, Social Ads',
@@ -210,6 +216,9 @@ export const resumeConfig: ResumeConfig = {
       },
       techs: ['WordPress', 'SEO'],
       details: {
+        context: {
+          fr: 'Activité freelance en parallèle — conseil et réalisation pour TPE/PME locales.',
+        },
         tasks: {
           fr: [
             'Stratégie digitale et gestion de projet freelance pour TPE/PME',
@@ -233,6 +242,9 @@ export const resumeConfig: ResumeConfig = {
       },
       techs: ['WordPress', 'Email Marketing'],
       details: {
+        context: {
+          fr: 'Agence de communication grands comptes — premiers pas dans le pilotage de projets web.',
+        },
         tasks: {
           fr: [
             'Pilotage de projets Web : sites internet, campagnes e-mail, social média',
